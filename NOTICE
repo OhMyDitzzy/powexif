@@ -1,0 +1,20 @@
+powexif
+Copyright 2026 OhMyDitzzy
+
+This product is licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+This product includes software developed by third parties. The following
+dependencies are used at runtime and are governed by their own licenses:
+
+  anyhow          (MIT OR Apache-2.0)  https://github.com/dtolnay/anyhow
+  clap            (MIT OR Apache-2.0)  https://github.com/clap-rs/clap
+  colored         (MPL-2.0)            https://github.com/colored-rs/colored
+  prettytable-rs  (BSD-3-Clause)       https://github.com/phsym/prettytable-rs
+
+The full text of each third-party license is available in each respective
+crate's source distribution on crates.io.

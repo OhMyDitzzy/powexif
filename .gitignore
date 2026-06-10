@@ -1,0 +1,37 @@
+# Compiled output
+/target/
+/debug/
+/release/
+
+# Cargo lock (keep for binaries, comment out for pure libraries)
+# Cargo.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test artifacts (sample images used in tests)
+tests/
+tests/fixtures/*.jpg.out
+tests/fixtures/*.tiff.out
+
+# Benchmark results
+/target/criterion/
+
+# Coverage reports
+/coverage/
+lcov.info
+tarpaulin-report.html
+
+# Rustfmt / Clippy cache
+.rustfmt-cache

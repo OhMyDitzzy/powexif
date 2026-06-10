@@ -1,0 +1,9 @@
+# clippy.toml
+# Configuration for cargo clippy lints.
+# See: https://doc.rust-lang.org/clippy/configuration.html
+
+msrv = "1.96"
+
+# Allow slightly longer lines in code — rustfmt enforces max_width = 100
+# but clippy's default is 100 chars for its own checks too.
+too-many-lines-threshold = 60
