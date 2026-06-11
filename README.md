@@ -4,7 +4,7 @@ A fast, lightweight, and pure-Rust library and command-line tool designed for pa
 
 [![Crates.io](https://img.shields.io/crates/v/powexif.svg)](https://crates.io/crates/powexif)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/OhMyDitzzy/powexif/ci.yml?branch=main)](https://github.com/OhMyDitzzy/powexif/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/OhMyDitzzy/powexif/release.yml?branch=main)](https://github.com/OhMyDitzzy/powexif/actions)
 
 ## Overview
 **powexif** provides a robust, zero-dependency (no `libexif` or C-bindings) solution for handling image metadata in Rust. Whether you need to build a high-performance photo processing pipeline, a privacy tool to strip tracking data, or simply want a quick CLI tool to inspect your shots, `powexif` offers a safe and idiomatic Rust API alongside a feature-rich command-line interface.
